@@ -1,0 +1,7 @@
+{
+  "name": "AplicacionStarWars",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
